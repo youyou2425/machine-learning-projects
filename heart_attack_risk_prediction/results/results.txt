@@ -1,0 +1,49 @@
+Model Logistic Regression
+Threshold: 0.35, Precision: 0.360, Recall: 0.613, Accuracy: 0.471
+Model Logistic Regression
+Threshold: 0.40, Precision: 0.398, Recall: 0.047, Accuracy: 0.633
+Model Logistic Regression
+Threshold: 0.45, Precision: 0.000, Recall: 0.000, Accuracy: 0.641
+Model Gradient Boosting
+Threshold: 0.35, Precision: 0.372, Recall: 0.573, Accuracy: 0.500
+Model Gradient Boosting
+Threshold: 0.40, Precision: 0.416, Recall: 0.219, Accuracy: 0.610
+Model Gradient Boosting
+Threshold: 0.45, Precision: 0.421, Recall: 0.057, Accuracy: 0.634
+Model KNeighbors Classifier
+Threshold: 0.35, Precision: 0.355, Recall: 0.570, Accuracy: 0.474
+Model KNeighbors Classifier
+Threshold: 0.40, Precision: 0.355, Recall: 0.570, Accuracy: 0.474
+Model KNeighbors Classifier
+Threshold: 0.45, Precision: 0.352, Recall: 0.229, Accuracy: 0.572
+Model Decision Tree Classifier
+Threshold: 0.35, Precision: 0.375, Recall: 0.415, Accuracy: 0.542
+Model Decision Tree Classifier
+Threshold: 0.40, Precision: 0.375, Recall: 0.415, Accuracy: 0.542
+Model Decision Tree Classifier
+Threshold: 0.45, Precision: 0.375, Recall: 0.415, Accuracy: 0.542
+Model AdaBoost Classifier
+Threshold: 0.35, Precision: 0.359, Recall: 0.999, Accuracy: 0.359
+Model AdaBoost Classifier
+Threshold: 0.40, Precision: 0.359, Recall: 0.999, Accuracy: 0.359
+Model AdaBoost Classifier
+Threshold: 0.45, Precision: 0.359, Recall: 0.999, Accuracy: 0.360
+Model Random Forest
+Threshold: 0.35, Precision: 0.369, Recall: 0.663, Accuracy: 0.472
+Model Random Forest
+Threshold: 0.40, Precision: 0.372, Recall: 0.382, Accuracy: 0.547
+Model Random Forest
+Threshold: 0.45, Precision: 0.395, Recall: 0.154, Accuracy: 0.612
+Model XGboost Classifier
+Threshold: 0.35, Precision: 0.358, Recall: 0.425, Accuracy: 0.520
+Model XGboost Classifier
+Threshold: 0.40, Precision: 0.371, Recall: 0.359, Accuracy: 0.552
+Model XGboost Classifier
+Threshold: 0.45, Precision: 0.376, Recall: 0.279, Accuracy: 0.575
+Model Naye base Classifier
+Threshold: 0.35, Precision: 0.356, Recall: 0.584, Accuracy: 0.471
+Model Naye base Classifier
+Threshold: 0.40, Precision: 0.406, Recall: 0.074, Accuracy: 0.629
+Model Naye base Classifier
+Threshold: 0.45, Precision: 0.000, Recall: 0.000, Accuracy: 0.641
+
