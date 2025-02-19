@@ -49,5 +49,6 @@ For any questions or discussions, feel free to reach out via GitHub.
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youyou2425/machine-learning-projects/refs/heads/main/heart_attack_risk_prediction/heart_attack_risk_prediction.ipynb)
 
 
