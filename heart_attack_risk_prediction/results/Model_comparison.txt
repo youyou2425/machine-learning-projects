@@ -1,0 +1,9 @@
+Model: Logistic Regression, Recall: 0.620, Precision: 0.365, Accuracy: 0.477
+Model: Gradient Boosting, Recall: 0.581, Precision: 0.376, Accuracy: 0.504
+Model: KNeighbors Classifier, Recall: 0.583, Precision: 0.359, Accuracy: 0.477
+Model: Decision Tree Classifier, Recall: 0.419, Precision: 0.375, Accuracy: 0.541
+Model: Random Forest, Recall: 0.653, Precision: 0.368, Accuracy: 0.474
+Model: XGboost Classifier, Recall: 0.433, Precision: 0.368, Accuracy: 0.530
+Model: Naye base Classifier, Recall: 0.587, Precision: 0.370, Accuracy: 0.493
+Model recall scores: {'Logistic Regression': 0.6195928753180662, 'Gradient Boosting': 0.5814249363867684, 'KNeighbors Classifier': 0.5826972010178118, 'Decision Tree Classifier': 0.41857506361323155, 'Random Forest': 0.6526717557251909, 'XGboost Classifier': 0.43256997455470736, 'Naye base Classifier': 0.5865139949109415}
+Best model: Random Forest with recall: 0.6526717557251909

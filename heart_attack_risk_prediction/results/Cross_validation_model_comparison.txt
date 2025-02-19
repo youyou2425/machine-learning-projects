@@ -1,0 +1,169 @@
+Model Logistic Regression
+Cross Validation mean recall:  0.0
+Cross Validation std recall:  0.0
+Test Accuracy:  0.641259698767686
+Test Recall:  0.0
+Confusion matrix: 
+ [[1405    0]
+ [ 786    0]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      1.00      0.78      1405
+           1       0.00      0.00      0.00       786
+
+    accuracy                           0.64      2191
+   macro avg       0.32      0.50      0.39      2191
+weighted avg       0.41      0.64      0.50      2191
+
+
+Model Gradient Boosting
+Cross Validation mean recall:  0.018641614193062407
+Cross Validation std recall:  0.012409589159807392
+Test Accuracy:  0.639890460976723
+Test Recall:  0.021628498727735368
+Confusion matrix: 
+ [[1385   20]
+ [ 769   17]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      0.99      0.78      1405
+           1       0.46      0.02      0.04       786
+
+    accuracy                           0.64      2191
+   macro avg       0.55      0.50      0.41      2191
+weighted avg       0.58      0.64      0.51      2191
+
+
+Model KNeighbors Classifier
+Cross Validation mean recall:  0.2256028574153222
+Cross Validation std recall:  0.01467640885679182
+Test Accuracy:  0.5746234596074852
+Test Recall:  0.24427480916030533
+Confusion matrix: 
+ [[1067  338]
+ [ 594  192]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      0.76      0.70      1405
+           1       0.36      0.24      0.29       786
+
+    accuracy                           0.57      2191
+   macro avg       0.50      0.50      0.49      2191
+weighted avg       0.54      0.57      0.55      2191
+
+
+Model Decision Tree Classifier
+Cross Validation mean recall:  0.36591254367181336
+Cross Validation std recall:  0.018462513492760336
+Test Accuracy:  0.540848927430397
+Test Recall:  0.41857506361323155
+Confusion matrix: 
+ [[856 549]
+ [457 329]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.65      0.61      0.63      1405
+           1       0.37      0.42      0.40       786
+
+    accuracy                           0.54      2191
+   macro avg       0.51      0.51      0.51      2191
+weighted avg       0.55      0.54      0.55      2191
+
+
+Model AdaBoost Classifier
+Cross Validation mean recall:  0.019105836297766875
+Cross Validation std recall:  0.003437017580786924
+Test Accuracy:  0.6389776357827476
+Test Recall:  0.008905852417302799
+Confusion matrix: 
+ [[1393   12]
+ [ 779    7]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      0.99      0.78      1405
+           1       0.37      0.01      0.02       786
+
+    accuracy                           0.64      2191
+   macro avg       0.50      0.50      0.40      2191
+weighted avg       0.54      0.64      0.51      2191
+
+
+Model Random Forest
+Cross Validation mean recall:  0.029259651627283768
+Cross Validation std recall:  0.012207589393598388
+Test Accuracy:  0.6316750342309447
+Test Recall:  0.015267175572519083
+Confusion matrix: 
+ [[1372   33]
+ [ 774   12]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      0.98      0.77      1405
+           1       0.27      0.02      0.03       786
+
+    accuracy                           0.63      2191
+   macro avg       0.45      0.50      0.40      2191
+weighted avg       0.51      0.63      0.51      2191
+
+
+Model XGboost Classifier
+Cross Validation mean recall:  0.2026294443625673
+Cross Validation std recall:  0.01521472212112864
+Test Accuracy:  0.583295298950251
+Test Recall:  0.21755725190839695
+Confusion matrix: 
+ [[1107  298]
+ [ 615  171]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      0.79      0.71      1405
+           1       0.36      0.22      0.27       786
+
+    accuracy                           0.58      2191
+   macro avg       0.50      0.50      0.49      2191
+weighted avg       0.54      0.58      0.55      2191
+
+
+Model Support Vector Machine
+Cross Validation mean recall:  0.0
+Cross Validation std recall:  0.0
+Test Accuracy:  0.641259698767686
+Test Recall:  0.0
+Confusion matrix: 
+ [[1405    0]
+ [ 786    0]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      1.00      0.78      1405
+           1       0.00      0.00      0.00       786
+
+    accuracy                           0.64      2191
+   macro avg       0.32      0.50      0.39      2191
+weighted avg       0.41      0.64      0.50      2191
+
+
+Model Naye base Classifier
+Cross Validation mean recall:  0.00042105263157894734
+Cross Validation std recall:  0.0008421052631578947
+Test Accuracy:  0.641259698767686
+Test Recall:  0.0
+Confusion matrix: 
+ [[1405    0]
+ [ 786    0]]
+Classification report: 
+               precision    recall  f1-score   support
+
+           0       0.64      1.00      0.78      1405
+           1       0.00      0.00      0.00       786
+
+    accuracy                           0.64      2191
+   macro avg       0.32      0.50      0.39      2191
+weighted avg       0.41      0.64      0.50      2191
