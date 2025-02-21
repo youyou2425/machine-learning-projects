@@ -75,6 +75,6 @@ This project is licensed under the MIT License.
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youyou2425/machine-learning-projects/refs/heads/main/Medical_insurance_premium_prediction/Medical_Insurance_Premium_Prediction_with_Machine_Learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youyou2425/machine-learning-projects/blob/main/Medical_insurance_premium_prediction/Medical_Insurance_Premium_Prediction_with_Machine_Learning.ipynb)
 
 
