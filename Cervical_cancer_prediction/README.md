@@ -1,4 +1,4 @@
-# Cervical Cancer Biopsy Prediction using XGBoost
+# Cervical Cancer Prediction using XGBoost
 
 ## Project Overview
 This project aims to predict **cervical cancer biopsy results** (0 = no cancer, 1 = cancer) based on patient data, including **age, smoking history, sexually transmitted diseases (STDs), and screening test results**. The goal is to develop a model that helps in early detection, reducing unnecessary procedures while minimizing missed diagnoses.
