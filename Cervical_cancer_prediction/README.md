@@ -20,11 +20,11 @@ This project aims to predict **cervical cancer biopsy results** (0 = no cancer, 
 ```
 
 ## Results
-| Metric  | Testing  |
-|---------|----------|
-| Precision | 0.67 |
-| Recall | 0.75 |
-| F1-score | 0.71 |
+| Metric  | Training | Testing  |
+|---------|---------|----------|
+| Precision | 0.69 | 0.67 |
+| Recall | 0.89 | 0.75 |
+| F1-score | 0.78 | 0.71 |
 
 - **XGBoost outperformed other models** in balancing precision and recall.
 - **SHAP analysis helped identify key features** contributing to cancer predictions.
