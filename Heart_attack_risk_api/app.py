@@ -45,9 +45,12 @@ def predict():
     data = request.get_json()
 
     #fields required for the model to run
-    required_fields = ["age", "sex", "cp", "trestbps", "chol", "fbs",
-                       "restecg", "thalach", "exang", "oldpeak", "slope",
-                       "ca", "thal"]
+    required_fields = ['Age', 'Cholesterol', 'Heart Rate', 'Diabetes', 'Family History',
+       'Obesity', 'Alcohol Consumption', 'Exercise Hours Per Week',
+       'Previous Heart Problems', 'Medication Use', 'Stress Level',
+       'Sedentary Hours Per Day', 'Income', 'BMI', 'Triglycerides',
+       'Physical Activity Days Per Week', 'Sleep Hours Per Day', 'Country',
+       'Systolic', 'Diastolic', 'Diet_1', 'Diet_2', 'Smoking']
 
     if not all(field in data for field in required_fields):
         return jsonify({"error": "Missing one or more required input fields"}), 400
@@ -90,9 +93,12 @@ def predict_csv():
     try:
         df = pd.read_csv(file)
 
-        required_columns = ["age", "sex", "cp", "trestbps", "chol", "fbs",
-                            "restecg", "thalach", "exang", "oldpeak", "slope",
-                            "ca", "thal"]
+        required_columns = ['Age', 'Cholesterol', 'Heart Rate', 'Diabetes', 'Family History',
+       'Obesity', 'Alcohol Consumption', 'Exercise Hours Per Week',
+       'Previous Heart Problems', 'Medication Use', 'Stress Level',
+       'Sedentary Hours Per Day', 'Income', 'BMI', 'Triglycerides',
+       'Physical Activity Days Per Week', 'Sleep Hours Per Day', 'Country',
+       'Systolic', 'Diastolic', 'Diet_1', 'Diet_2', 'Smoking']
 
         if not all(col in df.columns for col in required_columns):
             return jsonify({"error": "Missing required columns"}), 400
