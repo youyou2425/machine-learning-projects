@@ -7,7 +7,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the model
-model = joblib.load("model.pkl")
+model = joblib.load("heart_attack_risk_best_model.pkl")
 
 #Defines a home route (/) of your web API
 @app.route('/')
