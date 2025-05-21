@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 #Initialize Flask app instance. __name__tells Flask where to look for resources
-app = Flask(__name__)app = Flask(__name__)
+app = Flask(__name__)
 
 # Load the model
 model = joblib.load("model.pkl")
