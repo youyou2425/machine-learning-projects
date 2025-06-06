@@ -1,3 +1,6 @@
+import os
+print("Files in current directory:", os.listdir("."))
+print("Subfolders:", [f for f in os.listdir(".") if os.path.isdir(f)])
 
 import streamlit as st
 import joblib
