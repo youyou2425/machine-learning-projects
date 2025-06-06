@@ -1,6 +1,0 @@
-feature_columns = ['Age', 'Cholesterol', 'Heart Rate', 'Diabetes', 'Family History',
-       'Obesity', 'Alcohol Consumption', 'Exercise Hours Per Week',
-       'Previous Heart Problems', 'Medication Use', 'Stress Level',
-       'Sedentary Hours Per Day', 'Income', 'BMI', 'Triglycerides',
-       'Physical Activity Days Per Week', 'Sleep Hours Per Day', 'Country',
-       'Systolic', 'Diastolic', 'Diet_1', 'Diet_2', 'Smoking']
