@@ -8,9 +8,9 @@ import numpy as np
 import pandas as pd
 
 # Load model and scaler
-model = joblib.load("heart_attack_risk_best_model.pkl")
-scaler = joblib.load("heart_attack_risk_scaler.pkl")
-feature_columns = joblib.load("heart_attack_risk_feature_columns.pkl")
+model = joblib.load("streamlit_heart_app_updated/heart_attack_risk_best_model.pkl")
+scaler = joblib.load("streamlit_heart_app_updated/heart_attack_risk_scaler.pkl")
+feature_columns = joblib.load("streamlit_heart_app_updated/heart_attack_risk_feature_columns.pkl")
 
 st.title("Heart Attack Risk Predictor")
 st.write("Use this tool to predict heart attack risk by uploading a CSV file for batch prediction.")
