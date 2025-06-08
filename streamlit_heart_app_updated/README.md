@@ -2,7 +2,7 @@
 
 This interactive Streamlit web app uses a machine learning model to predict an individual's risk of heart attack based on commonly collected health and lifestyle factors. It supports batch predictions via CSV upload.
 
-![screenshot](https://your-screenshot-link-if-you-have-one.png)
+![screenshot](https://github.com/youyou2425/machine-learning-projects/blob/main/streamlit_heart_app_updated/screenshot_heart_app.png?raw=true)
 
 ## 🚀 Live Demo
 
