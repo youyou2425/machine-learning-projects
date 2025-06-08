@@ -6,9 +6,7 @@ This interactive Streamlit web app uses a machine learning model to predict an i
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app](https://your-streamlit-username.streamlit.app/)
-
-(Replace with your actual app URL once deployed)
+👉 [Click here to use the app][https://machine-learning-projects-ajonljppcjg3mlz3ehguyq.streamlit.app/]
 
 ---
 
