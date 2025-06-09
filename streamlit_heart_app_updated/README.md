@@ -35,7 +35,7 @@ The app expects the following 23 features for each prediction:
 
 You can download a sample input file to test batch prediction here:
 
-👉 [Download sample_heart_risk_input.csv](https://github.com/youyou2425/machine-learning-projects/raw/main/streamlit_heart_app_updated/sample_heart_risk_input_numeric_country.csv)
+👉 [Download sample_heart_risk_input.csv](https://drive.google.com/uc?export=download&id=1fOpmRQiS-BpipNMx2pJ3vl4-89QBySWB)
 
 ---
 
