@@ -31,6 +31,12 @@ The app expects the following 23 features for each prediction:
 
    Upload a CSV file with the exact columns listed above. The app will return a downloadable CSV with predictions and risk probabilities.
 
+### 📥 Sample CSV File
+
+You can download a sample input file to test batch prediction here:
+
+👉 [Download sample_heart_risk_input.csv](https://github.com/youyou2425/machine-learning-projects/raw/main/streamlit_heart_app_updated/sample_heart_risk_input_numeric_country.csv)
+
 ---
 
 ## 🧠 Model Details
