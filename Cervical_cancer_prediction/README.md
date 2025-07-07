@@ -5,9 +5,10 @@ This project aims to predict **cervical cancer biopsy results** (0 = no cancer, 
 
 ## Key Highlights
 - **Best Model:** XGBoost with optimized precision and recall
+- **Class imbalance handling:** Used combination of SMOTE_NC and scale_pos_weight in XGBoost to address class imbalance
 - **Feature Importance:** Identified key risk factors using SHAP values
-- **Threshold Tuning:** Improved model performance by selecting the best threshold (0.17)
-- **Performance Metrics:** Achieved a balance between precision (0.67) and recall (0.75) on test data
+- **Threshold Tuning:** Improved model performance by selecting the best threshold (0.70)
+- **Performance Metrics:** Achieved a balance between precision (0.65) and recall (1.0) on test data
 
 ## Repository Structure
 ```
